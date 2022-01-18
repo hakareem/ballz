@@ -2,7 +2,7 @@
 const canvas = document.getElementById("field");
 const context = canvas.getContext("2d");
 
-class Field {
+class Area {
     constructor(canvas, context) {
         this.canvas = canvas;
         this.context = context;
@@ -95,5 +95,5 @@ clearButton.addEventListener("click", function() {
     field.clear();
 });
 
-const field = new Field(canvas, context);
+const field = new Area(canvas, context);
 
