@@ -1,0 +1,31 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: grid;
+    grid-gap: 25px;
+    justify-items: center;
+    margin: 25px 0;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    grid-gap: 100px;
+    align-items: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+button {
+    background: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 20px;
+}
