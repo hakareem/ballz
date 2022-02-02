@@ -1,5 +1,5 @@
 # Bouncing Balls
-This is a cool bouncing balls project that I built using Javascript. I find this project to be quite interesting and so I decided to refactor previous code to improve and optimise it.
+This is a cool little project that I built using Javascript. Essentially it's balls bouncing in a confined space environment, I have done this project to improve on my existing skills. I find this project to be quite interesting and so I decided to refactor previous code to improve and optimise it, for example I made the travel speed random for each ball.
 
 # Learning Experience
 This was a great project to practice Javascript Classes, HTML Canvas and button event listeners.
