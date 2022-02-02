@@ -1,4 +1,4 @@
-# ballz
+# Bouncing Balls
 This is a cool bouncing balls project that I built using Javascript. I find this project to be quite interesting and so I decided to refactor previous code to improve and optimise it.
 
 # Learning Experience
