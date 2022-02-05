@@ -8,5 +8,5 @@ This was a great project to practice Javascript Classes, HTML Canvas and button 
 • Add gravity to balls <br>
 • Add varying ball sizes <br>
 • Implement additional styles (trails) <br>
-• Sound Effects
+• Sound Effects <br>
 • Collision 
